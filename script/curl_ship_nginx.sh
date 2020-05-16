@@ -1,0 +1,1 @@
+curl "spaceshipserver/api/space/"
